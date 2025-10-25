@@ -2,10 +2,8 @@
 
 :small_orange_diamond: Grad Student at Michigan Tech, Mechanical & Aerospace Engineering.    
 :small_orange_diamond: Research Interests: Fluid Mechanics and Hypersonic Propulsion  
-:small_orange_diamond: 2 years of professional experience - Systems Engineer at Boeing  
-:small_orange_diamond: B.S. Systems Engineering, Texas A&M International University  
-    
 
+    
 ### Projects 
 1. CFD Flow Over a NACA 2412 2-D Airfoil
 2. CFD Turbulent Flow over an Airfoil at High Reynolds Number
