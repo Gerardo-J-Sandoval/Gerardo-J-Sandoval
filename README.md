@@ -1,15 +1,16 @@
 # Gerardo Sandoval
 
 :small_orange_diamond: Grad Student at Michigan Tech, Mechanical & Aerospace Engineering.    
-:small_orange_diamond: Research Interests: Fluid Mechanics and Hypersonic Propulsion  
+:small_orange_diamond: Research Interests: Fluid Mechanics and Hypersonics 
 
     
-### Projects 
-1. CFD Flow Over a NACA 2412 2-D Airfoil
-2. CFD Turbulent Flow over an Airfoil at High Reynolds Number
-3. CFD Shock-Boundary Layer Interaction in Supersonic Flow 
-4. CFD Turbulent Combustion in a Jet Flame  
-5. [CFD Simulation of Martian Winds over a Crater](https://github.com/Gerardo-J-Sandoval/CFD-Martian-Winds)  
+### CFD Projects 
+1. Flow Over a 2D NACA 2412 Airfoil
+2. Turbulent Flow over an Airfoil at High Reynolds Number
+3. [Simulation of Martian Winds over a Crater](https://github.com/Gerardo-J-Sandoval/CFD-Martian-Winds)  
+4. Shock-Boundary Layer Interaction in Supersonic Flow 
+5. Turbulent Combustion in a Jet Flame  
+   
  
  ### Publications
 
