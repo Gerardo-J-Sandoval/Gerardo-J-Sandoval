@@ -3,7 +3,7 @@
 :small_orange_diamond: Grad Student at Michigan Tech, Mechanical & Aerospace Engineering.    
 :small_orange_diamond: Research Interests: Fluid Mechanics and Hypersonics 
 
-<img width="700" height="auto" alt="image" src="https://github.com/user-attachments/assets/0205e247-bd20-4f7c-9303-99b6146a9def" />
+<img width="500" height="auto" alt="image" src="https://github.com/user-attachments/assets/0205e247-bd20-4f7c-9303-99b6146a9def" /> 
 
 ### CFD Projects 
 1. 2D Analysis of Hypersonic Flow over a Simplified X-51 Waverider Geometry  
