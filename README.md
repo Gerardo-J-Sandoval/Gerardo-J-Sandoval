@@ -38,10 +38,10 @@
 
 </details>
 
-#### Blog Posts
+#### CFD Blog  
 
 <details>
-  <summary> STEM and Astronomy posts </summary>
+  <summary> Click to expand </summary>
 
 - Title. Description.
 - Title (TBD). Description.
