@@ -7,12 +7,8 @@
 
 
 ### CFD Projects 
-1. 2D Analysis of Hypersonic Flow over a Simplified X-51 Waverider Geometry  
-3. Turbulent Combustion in a Jet Flame  
-4. Shock-Boundary Layer Interaction in Supersonic Flow  
-5. [Simulation of Martian Winds over a Crater](https://github.com/Gerardo-J-Sandoval/CFD-Martian-Winds)  
-6. Turbulent Flow over a 2D Airfoil at High Reynolds Number
-7. [Incompressible Flow Over a 2D NACA 2412 Airfoil](https://github.com/Gerardo-J-Sandoval/CFD-Simple-Flow)  
+1. [Simulation of Martian Winds over a Crater](https://github.com/Gerardo-J-Sandoval/CFD-Martian-Winds)
+2. [Flow Over a 2D NACA 2412 Airfoil](https://github.com/Gerardo-J-Sandoval/CFD-Simple-Flow)  
 
 #### Technical Communication Papers
 
@@ -35,17 +31,6 @@
 2. G.S. (TBD). *--*. S.
 3. G.S. (TBD). *--*. 
 4. G.S. (2025).
-
-</details>
-
-#### CFD Blog  
-
-<details>
-  <summary> Click to expand </summary>
-
-- Title. Description.
-- Title (TBD). Description.
-- Title. Description. 
 
 </details>
 
