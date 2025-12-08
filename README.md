@@ -12,5 +12,5 @@
 
 ### Future CFD Projects
 1. 3D Airfoil Flow
-2. Jet Flame Simulkation
+2. One-Dimensione Jet Flame Reacting Flow Simulation
    
