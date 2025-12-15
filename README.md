@@ -1,6 +1,6 @@
 # Gerardo Sandoval
 
-:small_orange_diamond: Grad Student at Michigan Tech, Mechanical & Aerospace Engineering.    
+:small_orange_diamond: Systems Engineer and Grad Student at Michigan Tech, Mechanical & Aerospace Engineering.    
 :small_orange_diamond: Research Interests: Fluid Mechanics and Hypersonics 
 
 <img width="500" height="auto" alt="image" src="https://github.com/user-attachments/assets/68d58ba5-cc6c-417e-a88b-fc83997a866e" />
@@ -12,5 +12,6 @@
 
 ### Future CFD Projects
 1. 3D Airfoil Flow
-2. One-Dimensione Jet Flame Reacting Flow Simulation
+2. Simulation of Martian Winds over a Crater
+3. One-Dimensione Jet Flame Reacting Flow Simulation
    
