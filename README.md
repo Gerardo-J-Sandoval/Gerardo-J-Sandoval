@@ -26,10 +26,5 @@ I am a Graduate Student in Mechanical & Aerospace Engineering at Michigan Tech U
 1. 3D Airfoil Flow
 2. Simulation of Martian Winds over a Crater
 
-### 5. Contact Info & Profiles
-   * gsandova@mtu.edu 
-   * [Google Scholar](https://scholar.google.com/citations?hl=en&authuser=2&user=YlLFXlMAAAAJ)  
-   * ResearchGate
-   * LinkedIn
      
   
