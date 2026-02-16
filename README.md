@@ -11,17 +11,13 @@ I am a Graduate Student in Mechanical & Aerospace Engineering at Michigan Tech U
 
 ### 2. Book & Publications  
 1. Aerospace Vehicle Systems Engineering: A Vehicle-First Approach to Design & Integration (2029 expected)
-   - Aerospace Vehicle Systems Engineering (AVSE) is introduced in this book as a new engineering discipline within aerospace engineering - the conceptual spine that unifies the physics, vehicle design, and integration logic of aerospace vehicles. 
-   - This book explains how aerospace vehicles are designed, integrated, and matured aross their lifecyle.
-   - It examines major classes of aerospace vehicles such as airplanes, UAVs, missiles, and spacecraft, and shows why they differ, how they behave, and what their architectures demand from engineers. 
-   - Target Audience: Professional Aerospace Engineers, Engineering Leaders, and Professors & Grad Students in Aerospace Engineering.
-   - Initial Front Cover Art:
-   - <img width="400" height="auto" alt="image" src="https://github.com/user-attachments/assets/f0db0ae1-839b-41a4-b423-4d095958d313" />
+   - <img width="500" height="auto" alt="image" src="https://github.com/user-attachments/assets/f0db0ae1-839b-41a4-b423-4d095958d313" />
 
    - Image Credit: NASA X-30 Spaceplane Concept
-
-
-     
+   - Aerospace Vehicle Systems Engineering (AVSE) is introduced in this book as a new engineering discipline within aerospace engineering - the conceptual spine that unifies the physics, vehicle design, and integration logic of aerospace vehicles. 
+   - This book explains how aerospace vehicles are designed, integrated, and matured aross their lifecyle. It examines major classes of aerospace vehicles such as airplanes, UAVs, missiles, and spacecraft, and shows why they differ, how they behave, and what their architectures demand from engineers. Target Audience: Professional Aerospace Engineers, Engineering Leaders, and Professors & Grad Students in Aerospace Engineering.
+ 
+   
 ### 3. CFD Projects 
 1. [Flow Over a 2D NACA 2412 Airfoil](https://github.com/Gerardo-J-Sandoval/CFD-Simple-Flow)
 2. TBD
