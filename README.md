@@ -28,5 +28,6 @@ I am a Graduate Student in Mechanical & Aerospace Engineering at Michigan Tech U
 
 ### 5. Contact Info: TBD
 ### 6. Additional Profiles
+   * ResearchGate
    * [Google Scholar](https://scholar.google.com/citations?hl=en&authuser=2&user=YlLFXlMAAAAJ)
    * LinkedIn
