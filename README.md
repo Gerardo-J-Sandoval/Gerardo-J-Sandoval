@@ -17,6 +17,7 @@ I am a Graduate Student in Mechanical & Aerospace Engineering at Michigan Tech U
    - Target Audience: Professional Aerospace Engineers, Engineering Leaders, and Professors & Grad Students in Aerospace Engineering.
    - Initial Front Cover Art:
    - <img width="400" height="auto" alt="image" src="https://github.com/user-attachments/assets/845ffc6d-091a-4b06-9cac-299137dca0a1" />
+   - Image Credit: NASA X-30 Spaceplane Concept
 
 
      
