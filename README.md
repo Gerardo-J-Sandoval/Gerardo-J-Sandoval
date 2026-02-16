@@ -10,6 +10,7 @@
 ### 1. Book & Publications  
 1. Aerospace Vehicle Systems Engineering: A Vehicle-First Approach to Design & Integration (2029 expected)
    - This book explains how aerospace vehicles are designed, integrated, and matured aross their lifecyle.
+   - It examines major classes of aerospace vehicles such as airplanes, UAVs, missiles, and spacecraft, and shows why they differ, how they behave, and what their architectures demand from engineers. 
    - Target Audience: Professional Aerospace Engineers, Engineering Leaders, and Professors & Grad Students in Aerospace Engineering. 
      
 ### 2. CFD Projects 
@@ -24,3 +25,6 @@
 
 
 ### 4. Contact Info: TBD
+### 5. Additional Profiles
+   * [Google Scholar](https://scholar.google.com/citations?hl=en&authuser=2&user=YlLFXlMAAAAJ)
+   * LinkedIn
