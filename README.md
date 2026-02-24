@@ -11,19 +11,18 @@ I am a Graduate Student in Mechanical & Aerospace Engineering at Michigan Tech U
 
 ### 2. CFD Projects 
 1. [Flow Over a 2D NACA 2412 Airfoil](https://github.com/Gerardo-J-Sandoval/CFD-Simple-Flow)
-2. [1-D High-Enthalpy CFD Solver for Hypersonic Air-Breathing Propulsion](https://github.com/Gerardo-J-Sandoval/1D_High-Enthalpy_CFD_Solver)  
+2. [1-D High-Enthalpy CFD Solver for Hypersonic Air-Breathing Propulsion](https://github.com/Gerardo-J-Sandoval/1D_High-Enthalpy_CFD_Solver)
+3. Future Project: 3D Airfoil Flow
+4. Future Project: Simulation of Martian Winds over a Crater
 
-
-### 3. Future CFD Projects
-1. 3D Airfoil Flow
-2. Simulation of Martian Winds over a Crater  
    
-### 4. Book & Publications  
+### 3. Book & Publications  
 1. Aerospace Vehicle Systems Engineering: A Vehicle-First Approach to Design & Integration (2029 expected)
    - <img width="400" height="auto" alt="image" src="https://github.com/user-attachments/assets/f0db0ae1-839b-41a4-b423-4d095958d313" />
 
    - Image Credit: NASA X-30 Spaceplane Concept
-   - Aerospace Vehicle Systems Engineering (AVSE) is introduced in this book as a new engineering discipline within aerospace engineering - the conceptual spine that unifies the physics, vehicle design, and integration logic of aerospace vehicles. 
+   - Aerospace Vehicle Systems Engineering (AVSE) is introduced in this book as a new engineering discipline within aerospace engineering - the conceptual spine that unifies the physics, vehicle design, and integration logic of aerospace vehicles.
+2. TBD.
    
 
 
