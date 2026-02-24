@@ -24,7 +24,10 @@ I am a Graduate Student in Mechanical & Aerospace Engineering at Michigan Tech U
    - Aerospace Vehicle Systems Engineering (AVSE) is introduced in this book as a new engineering discipline within aerospace engineering - the conceptual spine that unifies the physics, vehicle design, and integration logic of aerospace vehicles.
 2. TBD.
    
-
+### 4. Profiles  
+* Google Scholar profile
+* ResearchGate profile
+* LinkedIn profile
 
      
   
