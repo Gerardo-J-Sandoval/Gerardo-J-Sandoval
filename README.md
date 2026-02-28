@@ -18,6 +18,8 @@ I am a Graduate Student in Mechanical & Aerospace Engineering at Michigan Tech U
    
 ### 3. Book & Publications  
 1. Aerospace Vehicle Engineering: A Vehicle-First Approach to Design & Integration (2029 expected)
+   - <img width="400" height="auto" alt="image" src="https://github.com/user-attachments/assets/1254fb41-c2e0-4171-b1f5-8812c8ad623d" />
+
    - Image Credit: NASA X-30 Spaceplane Concept
    - Aerospace Vehicle Engineering (AVE) is introduced in this book as a new engineering discipline within aerospace engineering - the conceptual spine that unifies the physics, vehicle design, and integration logic of aerospace vehicles.
 2. TBD.
