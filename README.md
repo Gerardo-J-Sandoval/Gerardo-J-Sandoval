@@ -12,9 +12,10 @@ I am a Graduate Student in Mechanical & Aerospace Engineering at Michigan Tech U
 ### 2. CFD Projects 
 1. [Flow Over a 2D NACA 2412 Airfoil](https://github.com/Gerardo-J-Sandoval/CFD-Simple-Flow)
 2. [1-D High-Enthalpy CFD Solver for Hypersonic Air-Breathing Propulsion](https://github.com/Gerardo-J-Sandoval/1D_High-Enthalpy_CFD_Solver)
-3. Future Project: 3D Airfoil Flow
-4. Future Project: Simulation of Martian Winds over a Crater
-
+3. Project 3: 3D Simple Airfoil Flow using Ansys Fluent
+4. Project 4: 2D Nozzle Shock-Capturing Solver
+5. Project 5: 2D Transonic Airfoil with Shock-BL Interaction
+6. Project 6: Upgraded Hypersonic Air-breathing Propulsion Flowpath Solver
    
 ### 3. Book & Publications  
 1. Aerospace Vehicle Engineering: A Vehicle-First Approach to Design & Integration (2029 expected)
