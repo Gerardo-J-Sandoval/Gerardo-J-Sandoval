@@ -13,7 +13,7 @@ I am a Graduate Student in Mechanical & Aerospace Engineering at Michigan Tech U
 1. [Flow Over a 2D NACA 2412 Airfoil](https://github.com/Gerardo-J-Sandoval/CFD-Simple-Flow)
 2. [1-D High-Enthalpy CFD Solver for Hypersonic Air-Breathing Propulsion](https://github.com/Gerardo-J-Sandoval/1D_High-Enthalpy_CFD_Solver)
 3. Project 3: 3D Simple Airfoil Flow using Ansys Fluent
-4. Project 4: Use *Understanding Aerodynamics: Arguing From The Real Physics* by Mclean D. (2013) to analyze Drag Reduction on 2D Airplane Geometries in Ansys Fluent.
+4. Project 4: Use *Understanding Aerodynamics: Arguing From The Real Physics* by Mclean D., Wiley (2012) to analyze Drag Reduction on 2D Airplane Geometries in Ansys Fluent.
 5. Project 5: 2D Nozzle Shock-Capturing Solver
 6. Project 6: 2D Transonic Airfoil with Shock-BL Interaction
 7. Project 7: Upgraded Hypersonic Air-breathing Propulsion Flowpath Solver
